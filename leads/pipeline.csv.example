@@ -1,0 +1,4 @@
+name,company,role,linkedin_url,email_guess,signal,status,notes,sent_at,replied_at
+Jane Smith,Acme Corp,VP Sales,https://linkedin.com/in/janesmith,jane@acmecorp.com,"posted about SDR productivity problems",To Research,,,
+Marcus Lee,Bright SaaS,Head of Growth,https://linkedin.com/in/marcuslee,marcus@brightsaas.com,"company raised $8M Series A last month",Researched,"Series A + hiring 3 sales reps : scaling outbound motion is the pain",,
+Sarah Chen,Loop Agency,Founder,https://linkedin.com/in/sarahchen,sarah@loopagency.com,"client churn post Q1 : commented on a post about retention",Sent,,"2025-05-10T09:30:00",
