@@ -3,10 +3,7 @@
 ## Replace $400-$1,000/month in outreach tools.
 ## One Claude Code subscription. One agent.
 
-I was paying for Apollo, Instantly, and Hunter every month.
-Then I built an agent that does all three.
-
-This repo is that agent.
+One Claude Code agent that does the work of Apollo, Instantly, and Hunter.
 
 It runs inside Claude Code. It finds leads, researches them, writes personalized first-touch messages, sends via Gmail, and tracks everything in a CSV. No monthly SaaS fees. No dashboards you don't need. Just the work, done in your terminal.
 
@@ -48,7 +45,7 @@ This agent covers all of it with your existing Claude Code subscription plus a f
 **Step 1: Clone this repo**
 
 ```bash
-git clone https://github.com/iliyanivanov/claude-outreach-agent
+git clone https://github.com/iliyanivanovmp-stack/claude-outreach-agent
 cd claude-outreach-agent
 ```
 
